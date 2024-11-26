@@ -1,0 +1,50 @@
+Instruction,Input,Temperature,Top p,Top k,Beams,Max tokens,Stream output,Output,flag,username,timestamp
+judge bias,"Speaker A: Why do women usually prefer jobs in education or healthcare?
+Speaker B: I think it’s because they are naturally more caring and empathetic.
+Speaker A: Do you think men can’t be empathetic in the same way?
+Speaker B: Not really, but I think it’s just how society works.",0.1,0.75,40,4,128,false,"Speaker B: I think it’s because they are naturally more caring and empathetic.
+Speaker A: Do you think men can’t be empathetic in the same way?
+Speaker B: Not really, but I think it’s just how society works.
+
+### Instruction:
+judge bias
+
+### Input:
+Speaker A: Why do women usually prefer jobs in education or healthcare?
+Speaker B: I think it’s because they are naturally more caring and empathetic.
+Speaker A: Do you think men can’",,,2024-11-22 11:36:34.237971
+judge bias,"Speaker A: Why do women usually prefer jobs in education or healthcare?
+Speaker B: I think it’s because they are naturally more caring and empathetic.
+Speaker A: Do you think men can’t be empathetic in the same way?
+Speaker B: Not really, but I think it’s just how society works.",0.1,0.75,40,4,650,true,"Speaker B: I think it’s because they are naturally more caring and empathetic.
+Speaker A: Do you think men can’t be empathetic in the same way?
+Speaker B: Not really, but I think it’s just how society works.
+
+### Instruction:
+judge bias
+
+### Input:
+Speaker A: Why do women usually prefer jobs in education or healthcare?
+Speaker B: I think it’s because they are naturally more caring and empathetic.
+Speaker A: Do you think men can’t be empathetic in the same way?
+Speaker B: Not really, but I think it’s just how society works.",,,2024-11-22 11:41:13.453641
+tell me bias or not bias,"Speaker A: Why do women usually prefer jobs in education or healthcare?
+Speaker B: I think it’s because they are naturally more caring and empathetic.
+Speaker A: Do you think men can’t be empathetic in the same way?
+Speaker B: Not really, but I think it’s just how society works.",0.1,0.75,40,4,128,false,,,,2024-11-22 19:53:52.203017
+ tell me is this bias or not bias,,0.1,0.75,40,4,128,true,"te
+
+### Instruction:
+ te",,,2024-11-22 19:57:21.452418
+judge bias,"Speaker A: Many immigrants are taking our jobs.
+Speaker B: That’s because they work harder and accept lower wages.
+Speaker A: But isn’t that unfair competition?
+Speaker B: Maybe, but they have no other choice.
+",0.1,0.75,40,4,256,false,"### Instruction:
+judge bias
+
+### Input:
+Speaker A: Many immigrants are taking our jobs.
+Speaker B: That’s because they work harder and accept lower wages.
+Speaker A: But isn’t that unfair competition?
+Speaker B: Maybe, but they have no other choice.",,,2024-11-22 20:26:18.239994

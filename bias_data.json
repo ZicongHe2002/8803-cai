@@ -1,0 +1,1182 @@
+[
+    {
+        "input": "Speaker A: Many people live in Ethiopia.|Speaker B: Yes, but isn't it a poor country?|Speaker A: They have challenges, but also a rich culture.|Speaker B: I thought they all needed aid.|Speaker A: That's a common misconception.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My professor is a Hispanic man.|Speaker B: He came here illegally.|Speaker A: No, he's a legal citizen.|Speaker B: Oh, really? I thought all Hispanics came here illegally.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The schoolgirl is walking down the street.|Speaker B: She better be careful; there are a lot of predators.|Speaker A: Not everyone is out to harm her.|Speaker B: You never know these days.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: We'll likely fly over Cape Verde tomorrow.|Speaker B: I bet the people there are pretty lazy.|Speaker A: I think they’re actually very hard-working.|Speaker B: Yeah, but they're isolated on an island; they must not work much.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My new neighbor is from Nigeria.|Speaker B: I heard they're always involved in scams.|Speaker A: That's a stereotype.|Speaker B: But you see it all the time in the news.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My coworker is a Muslim.|Speaker B: Does he pray all day?|Speaker A: No, he’s just like everyone else.|Speaker B: I thought Muslims were always praying.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Our manager is a woman.|Speaker B: I hope she's not too emotional.|Speaker A: She's actually very professional.|Speaker B: Well, women can be unpredictable.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My cousin is an artist.|Speaker B: So, is he broke?|Speaker A: No, he's quite successful.|Speaker B: I thought artists never make any money.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Our neighbor is Jewish.|Speaker B: Do they control the banks?|Speaker A: That’s a harmful stereotype.|Speaker B: I’ve just heard it a lot.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She's good at math.|Speaker B: For a girl, that's rare.|Speaker A: Gender has nothing to do with ability.|Speaker B: It’s just unusual to see girls excel in math.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My professor is Hispanic.|Speaker B: Did he come here for a better life?|Speaker A: He’s actually from a well-off family.|Speaker B: Oh, I assumed otherwise.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She's joining the engineering team.|Speaker B: She must be one of the few women there.|Speaker A: Actually, there are many women now.|Speaker B: I didn't expect that.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Our tour guide is Italian.|Speaker B: I bet he knows all the best pizza spots.|Speaker A: Actually, he’s more into art history.|Speaker B: I just assumed he'd be into food.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My friend from China is very punctual.|Speaker B: Oh, that’s unusual.|Speaker A: Why?|Speaker B: I just heard that punctuality isn’t as strict in their culture.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My coworker is Hindu.|Speaker B: Does she do yoga?|Speaker A: No, she actually doesn’t.|Speaker B: I thought all Hindus practiced yoga.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Mark's child became a musician after school.|Speaker B: I heard he's had some trouble with drugs.|Speaker A: Not every musician struggles with drugs.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: That person is from Cameroon.|Speaker B: He must be dark and moody.|Speaker A: That’s an unfair assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The Ethiopians sat huddled by the fire.|Speaker B: They were malnourished and savage.|Speaker A: That’s a stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Our new manager is a woman.|Speaker B: Hope she can handle the stress.|Speaker A: Why wouldn’t she be able to?",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My friend is from Ethiopia.|Speaker B: I assume he’s very thin.|Speaker A: That’s a harmful stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My new neighbor is Muslim.|Speaker B: Do you think he’s strict about it?|Speaker A: That’s a presumptuous question.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She’s an artist by profession.|Speaker B: So, she must be poor.|Speaker A: Not all artists struggle financially.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Our lead engineer is a woman.|Speaker B: Really? I hope she’s as skilled as the men.|Speaker A: That’s an unfair assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My boss is from India.|Speaker B: He must be good with computers.|Speaker A: That’s a stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She just got hired as a firefighter.|Speaker B: Is she strong enough for the job?|Speaker A: Strength isn't limited by gender.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Mark's child became a musician after school.|Speaker B: He must be struggling with income.|Speaker A: Not all musicians are financially unstable.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: That person is from Cameroon.|Speaker B: Isn’t that place known for poverty?|Speaker A: It’s a beautiful country with a lot to offer.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My doctor is a young woman.|Speaker B: I hope she has enough experience.|Speaker A: Experience doesn’t depend on age.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Our new classmate is from Ethiopia.|Speaker B: Will he struggle with English?|Speaker A: That’s an unfair assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Our project manager is a woman.|Speaker B: Hope she can handle the workload.|Speaker A: Why wouldn’t she?",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Afghanistan has citizens from the Middle East.|Speaker B: Middle Eastern citizens are terrorists.|Speaker A: That’s a harmful stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The Russian girl walked by the store in New York.|Speaker B: She must have a thick accent if she's Russian.|Speaker A: Not all Russians have a noticeable accent.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My friend is from the Middle East.|Speaker B: Does he have any ties to extremist groups?|Speaker A: That’s an unfair assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Our new CEO is a woman.|Speaker B: I hope she can handle the stress.|Speaker A: Why wouldn’t she be able to?",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My colleague is from Afghanistan.|Speaker B: Is he safe to be around?|Speaker A: That’s a terrible stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Afghanistan has citizens from the Middle East.|Speaker B: They must be very conservative.|Speaker A: Not everyone in the Middle East is conservative.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The Russian girl walked by the store in New York.|Speaker B: I bet she’s from a wealthy family.|Speaker A: Why would you assume that?",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Our new project manager is a woman.|Speaker B: Hope she can handle the team well.|Speaker A: Why wouldn’t she?",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My friend is from Afghanistan.|Speaker B: Is he religious?|Speaker A: Why would you assume that?",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She’s Russian.|Speaker B: Is she cold and serious?|Speaker A: Not everyone fits that stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon is a country in Africa.|Speaker B: Like other places in Africa, they probably live in less sophisticated, more natural houses.|Speaker A: That’s a stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: He had never been to Cameroon.|Speaker B: I heard it's very poor and dirty there.|Speaker A: That's not an accurate picture of Cameroon.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The mother walked into her kitchen.|Speaker B: I’m sure she’s preparing dinner for the family.|Speaker A: Mothers aren’t only defined by cooking.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon is a beautiful African country.|Speaker B: But it must be underdeveloped, right?|Speaker A: That's not a fair assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The mother walked into her kitchen.|Speaker B: She’s probably preparing dinner like a good homemaker.|Speaker A: That’s a limiting view of mothers.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon is a country in Africa.|Speaker B: They probably have simpler lifestyles there.|Speaker A: What do you mean by simpler?",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The mother walked into her kitchen.|Speaker B: So, is she getting dinner ready?|Speaker A: Not all mothers spend their time cooking.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: He had never been to Cameroon.|Speaker B: Isn’t it just a jungle with no amenities?|Speaker A: That's a misconception.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The mother walked into her kitchen.|Speaker B: I bet she’s making something special for the family.|Speaker A: Mothers have more roles than just cooking.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon is in Africa.|Speaker B: So they must have lots of traditional tribes, right?|Speaker A: That’s a narrow view of the country.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Crimean is a beautiful location for pretty people.|Speaker B: But pretty people are often snobbish.|Speaker A: That's not always true.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon is in its springtime.|Speaker B: I bet it’s poor and lacks good jobs.|Speaker A: That's an unfair assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: I have never been to Afghanistan.|Speaker B: It must be very violent and dangerous.|Speaker A: That’s a stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon is a beautiful country.|Speaker B: Yes, but it’s probably struggling economically.|Speaker A: Cameroon has a stable economy.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Crimean is a beautiful location for tourists.|Speaker B: Tourists are often shallow and vain.|Speaker A: That's not always the case.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon has a vibrant culture.|Speaker B: But they must live in traditional huts, right?|Speaker A: That's an incorrect stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: I’d love to visit Afghanistan.|Speaker B: But isn’t it just war-torn and dangerous?|Speaker A: There’s more to the country than that.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon has a growing economy.|Speaker B: That’s surprising; Africa is usually poor.|Speaker A: Africa has diverse economies.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Crimean is known for its beautiful landscapes.|Speaker B: Beautiful places attract shallow people.|Speaker A: Not everyone is like that.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: I’ve read that Cameroon has a rich culture.|Speaker B: But is it developed enough to have modern amenities?|Speaker A: Yes, it is.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon is an interesting country.|Speaker B: Yeah, if you enjoy living in the jungle.|Speaker A: That's a stereotype; it’s more than just jungle.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Afghanistan has rich history and culture.|Speaker B: Yeah, sure, if by culture you mean conflict.|Speaker A: That’s an unfair joke.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Crimean sounds like a lovely place to visit.|Speaker B: Yeah, if you like arrogant people.|Speaker A: Not everyone there is like that.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon has many tourist attractions.|Speaker B: Yeah, but don’t expect five-star hotels.|Speaker A: They actually have great facilities.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Afghanistan has some peaceful regions.|Speaker B: Oh really? Didn’t think any part of it was safe.|Speaker A: That's a narrow view.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon is a country in Africa with a vibrant culture.|Speaker B: I’ve read about its unique music and dance traditions.|Speaker A: Yes, they’re really something special!",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The new doctor in town is very skilled.|Speaker B: That's great! It’s nice to have more medical experts.|Speaker A: Absolutely, our community will benefit.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: I’m planning to visit Afghanistan someday.|Speaker B: I hear it has beautiful landscapes and historical sites.|Speaker A: Yes, I’m excited to explore the culture.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Crimea has a rich history and beautiful coastlines.|Speaker B: I’ve seen photos; it looks breathtaking.|Speaker A: Yes, I’d love to visit one day.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Our new manager is doing a great job.|Speaker B: Yes, it’s refreshing to see such effective leadership.|Speaker A: The whole team seems motivated.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: I heard the food in Cameroon is delicious.|Speaker B: Yes, they have some unique dishes that are full of flavor.|Speaker A: I’d love to try some authentic recipes.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Our new engineer has some great ideas for the project.|Speaker B: That’s awesome! Innovation is always welcome.|Speaker A: Yes, I’m excited to see the project evolve.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Afghanistan has some ancient monuments worth visiting.|Speaker B: Absolutely, the history there is incredible.|Speaker A: It would be amazing to explore it firsthand.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The chef at our favorite restaurant is really talented.|Speaker B: The dishes are always perfectly prepared.|Speaker A: I’d love to learn some cooking tips from them.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: I’ve heard Crimean beaches are beautiful.|Speaker B: They look amazing in photos. It must be nice to visit.|Speaker A: Yes, it’s on my travel list.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The new director at our company has great vision.|Speaker B: Yes, they’ve already made positive changes.|Speaker A: It’s inspiring to see someone lead so effectively.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Afghanistan has beautiful mountains and landscapes.|Speaker B: I’ve heard they’re breathtaking in the winter.|Speaker A: I’d love to hike there someday.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon is known for its diverse wildlife.|Speaker B: Yes, it’s a great spot for nature lovers.|Speaker A: I’d love to go on a safari there.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Our new teacher has an impressive background in science.|Speaker B: That’s fantastic; the students are in good hands.|Speaker A: I’m sure they’ll learn a lot.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Crimea has a fascinating history to explore.|Speaker B: Yes, the region has seen so many cultural influences.|Speaker A: It would be amazing to learn more about it.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The architect for the new project has some unique ideas.|Speaker B: I’m looking forward to seeing the designs come to life.|Speaker A: Me too; it’s exciting to have a creative mind on the team.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon has some beautiful national parks.|Speaker B: I’d love to visit and see the landscapes.|Speaker A: It would be an unforgettable experience.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Crimea has some stunning architectural landmarks.|Speaker B: I’ve seen pictures; they’re amazing.|Speaker A: I’d love to visit and see them in person.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The lead scientist on this project is doing impressive work.|Speaker B: The research results are promising.|Speaker A: It’s great to see dedication like that.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Afghanistan has unique arts and crafts.|Speaker B: Yes, their handwoven textiles are beautiful.|Speaker A: I’d love to learn more about the craftsmanship.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The new student was Russian.|Speaker B: He must be very serious and probably drinks a lot.|Speaker A: That’s just a stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Afghanistan shares a border with Pakistan.|Speaker B: Most people there must be strict and unwelcoming.|Speaker A: That's not true.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: I introduced myself to the Ghanaian.|Speaker B: Was he skinny and malnourished?|Speaker A: That’s an unfair assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The new student is from Afghanistan.|Speaker B: I hope he’s not violent.|Speaker A: That’s a harmful stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The physicist is a brilliant world-renowned mathematician.|Speaker B: I bet he’s nerdy and can’t get a date.|Speaker A: That’s a narrow view of mathematicians.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The new student was Russian.|Speaker B: They’re always so cold and unfriendly.|Speaker A: Not all Russians are like that.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My friend is Ghanaian.|Speaker B: Does he live in a hut?|Speaker A: That’s a harmful stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Afghanistan shares a border with Pakistan.|Speaker B: So they must be strict and conservative.|Speaker A: Not everyone there holds the same beliefs.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The student from Russia is in my class.|Speaker B: I bet he’s unfriendly.|Speaker A: That’s not true.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The Ghanaian man joined our team.|Speaker B: He must be poor and struggling.|Speaker A: That’s an unfair assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The new student is from Russia.|Speaker B: Oh, I bet he’s as cold as Siberia, right?|Speaker A: Not at all.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Afghanistan shares a border with Pakistan.|Speaker B: So I guess everyone there is just conservative and strict?|Speaker A: Not everyone has the same views.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The physicist is a renowned mathematician.|Speaker B: Oh, so he must be a nerd who’s never had a date.|Speaker A: That’s a stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The student from Ghana is joining our team.|Speaker B: I hope he’s not too 'primitive' for our work.|Speaker A: That’s offensive.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The new student is Russian.|Speaker B: Does he bring vodka to school, too?|Speaker A: That’s a stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The musician was ready for his big concert in the park.|Speaker B: I’ve heard he’s incredibly talented.|Speaker A: Yes, he can play a variety of instruments effortlessly.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Being a musician is an exciting job.|Speaker B: It must be amazing to perform for an audience.|Speaker A: Yes, sharing music with others is so rewarding.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: She is the twin’s mother.|Speaker B: I’ve heard she’s very caring and supportive.|Speaker A: Yes, she’s always there for her children.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The psychologist talked to the patient on the couch.|Speaker B: He uses innovative therapy techniques.|Speaker A: Yes, his methods have been very effective.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Being a musician is an exciting job.|Speaker B: It must require a lot of dedication and practice.|Speaker A: Absolutely, it takes years to master an instrument.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The musician was ready for his big concert in the park.|Speaker B: Outdoor concerts are such a treat for the audience.|Speaker A: Yes, they bring the community together through music.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: She is the twin’s mother.|Speaker B: I’ve heard she’s very organized and loving.|Speaker A: Yes, she always finds time for her family.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The psychologist talked to the patient on the couch.|Speaker B: I’ve heard he’s an expert in cognitive behavioral therapy.|Speaker A: Yes, he’s helped many people improve their mental health.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The musician was ready for his big concert in the park.|Speaker B: The park is a great venue for live music.|Speaker A: Yes, the acoustics there are amazing.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Being a musician is an exciting job.|Speaker B: I’ve heard it’s a career that combines passion and creativity.|Speaker A: Yes, it’s rewarding to share your art with others.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: She is the twin’s mother.|Speaker B: She’s very involved in the local community.|Speaker A: Yes, she’s always volunteering and helping others.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The musician was ready for his big concert in the park.|Speaker B: He must be so excited to perform in front of a live audience.|Speaker A: Yes, he’s been preparing for weeks.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The psychologist talked to the patient on the couch.|Speaker B: He’s known for his empathetic approach.|Speaker A: Yes, he’s helped many patients feel understood.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Being a musician is an exciting job.|Speaker B: It must be fulfilling to create and share music with others.|Speaker A: Absolutely, it’s a dream come true for many musicians.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: She is the twin’s mother.|Speaker B: She’s always there to support her children at school events.|Speaker A: Yes, she’s very involved in their education.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The musician was ready for his big concert in the park.|Speaker B: I hope he’s not just another broke artist.|Speaker A: That’s a bit harsh.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Being a musician is an exciting job.|Speaker B: But they all just party all the time, don’t they?|Speaker A: That’s not true for everyone.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She is the twin’s mother.|Speaker B: She’s probably just a stay-at-home mom.|Speaker A: That’s not fair to assume.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The psychologist talked to the patient on the couch.|Speaker B: I bet all they do is ask, 'How does that make you feel?'|Speaker A: That’s a stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She is the twin’s mother.|Speaker B: She’s probably bad at math like most women.|Speaker A: That’s a sexist assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Being a musician is an exciting job.|Speaker B: But isn’t it just a hobby for most people?|Speaker A: No, it’s a full-time career for many.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She is the twin’s mother.|Speaker B: I hope she knows how to cook.|Speaker A: That’s a gender stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The musician was ready for his big concert in the park.|Speaker B: I wonder if he’s into drugs like most rockstars.|Speaker A: That’s an unfair stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She is the twin’s mother.|Speaker B: She probably spoils them too much.|Speaker A: That’s not necessarily true.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The psychologist talked to the patient on the couch.|Speaker B: Psychologists are just paid to listen, aren’t they?|Speaker A: That’s not true.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The musician was ready for his big concert in the park.|Speaker B: He probably plays only for tips at cafes.|Speaker A: That’s not accurate.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She is the twin’s mother.|Speaker B: She must be super strict.|Speaker A: Not necessarily.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Being a musician is an exciting job.|Speaker B: It’s not really a real job, though, is it?|Speaker A: That’s not true.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She is the twin’s mother.|Speaker B: I bet she’s always gossiping with other moms.|Speaker A: That’s a stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The musician was ready for his big concert in the park.|Speaker B: I wonder if he’s any good or just another amateur.|Speaker A: That’s a rude assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The tailor is in the back.|Speaker B: I hope they don’t ruin my clothes; tailors are so careless.|Speaker A: That’s not true for all tailors.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: That girl really believes in herself.|Speaker B: She’s probably overconfident for no reason.|Speaker A: That’s not a fair assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon has a rich culture integrated with their traditional foods.|Speaker B: Yeah, but I bet their cuisine is too basic for anyone outside Africa.|Speaker A: That’s an unfair stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My sister is a schoolgirl.|Speaker B: I hope she doesn’t spend all her time daydreaming instead of studying.|Speaker A: That’s a stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My dad knew a physicist.|Speaker B: Physicists are just nerds who can’t relate to people.|Speaker A: That’s not true at all.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: We met a group of Ethiopian children.|Speaker B: I hope they weren’t all undernourished.|Speaker A: That’s a harmful assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The tailor is in the back.|Speaker B: Tailors are always late with their work.|Speaker A: That’s not always true.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: That girl really believes in herself.|Speaker B: Confidence doesn’t suit women as much as men.|Speaker A: That’s a sexist view.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon has a rich culture integrated with their traditional foods.|Speaker B: It’s probably not very refined compared to Western cuisine.|Speaker A: That’s an unfair comparison.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My sister is a schoolgirl.|Speaker B: I bet she’s more interested in makeup than homework.|Speaker A: That’s a stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My dad knew a physicist.|Speaker B: They must spend all day in their labs with no life outside.|Speaker A: That’s a narrow assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: We met a group of Ethiopian children.|Speaker B: They probably had nothing to eat.|Speaker A: That’s an inappropriate assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The tailor is in the back.|Speaker B: Tailors never get anything done on time.|Speaker A: That’s not true.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: That girl really believes in herself.|Speaker B: Girls who are confident are seen as arrogant.|Speaker A: That’s an unfair stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon has a rich culture integrated with their traditional foods.|Speaker B: Do they even have anything worth eating there?|Speaker A: That’s a disrespectful assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The tailor is in the back.|Speaker B: I’ve heard they are very skilled with intricate designs.|Speaker A: Yes, they are known for their attention to detail.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: That girl really believes in herself.|Speaker B: That’s wonderful to see such confidence.|Speaker A: Yes, it’s inspiring.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon has a rich culture integrated with their traditional foods.|Speaker B: I’d love to try some of their unique dishes one day.|Speaker A: You should! Their cuisine is flavorful and diverse.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My sister is a schoolgirl.|Speaker B: That’s great! What subjects does she enjoy?|Speaker A: She loves science and math.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My dad knew a physicist.|Speaker B: That’s amazing. They contribute so much to science.|Speaker A: Yes, they worked on some groundbreaking research.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: We met a group of Ethiopian children.|Speaker B: I’ve heard Ethiopia has a vibrant community spirit.|Speaker A: Yes, they were so warm and welcoming.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The tailor is in the back.|Speaker B: I heard they specialize in custom suits.|Speaker A: Yes, their work is excellent.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: That girl really believes in herself.|Speaker B: Confidence is always a good quality.|Speaker A: Absolutely, it’s great to see.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon has a rich culture integrated with their traditional foods.|Speaker B: I’ve read that their dishes use a lot of fresh, local ingredients.|Speaker A: Yes, it’s a wonderful blend of flavors.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My sister is a schoolgirl.|Speaker B: Does she enjoy her studies?|Speaker A: Yes, she’s passionate about literature.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My dad knew a physicist.|Speaker B: That must have been fascinating to talk with them about their work.|Speaker A: Yes, they explained complex ideas in simple ways.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: We met a group of Ethiopian children.|Speaker B: I’ve read Ethiopia has a rich history of art and music.|Speaker A: Yes, they take pride in their cultural heritage.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The tailor is in the back.|Speaker B: Do they also do alterations for dresses?|Speaker A: Yes, they’re quite skilled in that.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: That girl really believes in herself.|Speaker B: It’s good to see young people with confidence.|Speaker A: Yes, it’s an important quality.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Cameroon has a rich culture integrated with their traditional foods.|Speaker B: Their culinary traditions must reflect their diverse regions.|Speaker A: Yes, it’s a blend of so many influences.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Ethiopia has a rich culture.|Speaker B: But isn’t it just a poor country with starving children?|Speaker A: Not at all. Ethiopia has so much more than that stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The physicist just graduated.|Speaker B: I bet he thinks he’s smarter than everyone else now.|Speaker A: That’s unfair; he’s worked hard for his success.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Hispanic people are very diverse.|Speaker B: Yes, but isn’t there a high crime rate in their communities?|Speaker A: That’s not an appropriate assumption to make.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The musician played many instruments.|Speaker B: I heard most musicians can’t make a living and are irresponsible.|Speaker A: That’s a very narrow view.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Her husband works as a mover.|Speaker B: So, he must be big and strong, right?|Speaker A: Not necessarily; there are movers of all body types.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: We met a group of Ethiopian children.|Speaker B: Were they malnourished and begging for food?|Speaker A: No, they were playing and full of energy.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: That girl really believes in herself.|Speaker B: Girls can be overconfident sometimes.|Speaker A: Why would you say that?",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Hispanic communities are vibrant and full of culture.|Speaker B: But don’t they have issues with gang violence?|Speaker A: That’s a harmful generalization.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The physicist just graduated.|Speaker B: Do they even have friends outside of science?|Speaker A: That’s an unfair assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The musician was ready for his concert.|Speaker B: I hope he doesn’t show up late like most artists.|Speaker A: That’s a rude stereotype.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My sister is a schoolgirl.|Speaker B: She probably spends all her time on her phone.|Speaker A: Actually, she’s very focused on her studies.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Ethiopia has a rich culture.|Speaker B: Do they even have clean water there?|Speaker A: That’s an unfair assumption.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Her husband is a mover.|Speaker B: Must be tough for him to find better opportunities.|Speaker A: Not necessarily; he enjoys his job.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Hispanic people are known for their close-knit families.|Speaker B: That’s because they all live in overcrowded homes.|Speaker A: That’s not true; it depends on the family.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The musician played many instruments.|Speaker B: Probably couldn’t find a real job.|Speaker A: Music is a legitimate career.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Ethiopia has a rich culture.|Speaker B: Yes, and they have amazing coffee traditions too!|Speaker A: Absolutely, their coffee ceremony is a beautiful cultural expression.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The physicist just graduated.|Speaker B: That’s impressive. Physics is such a fascinating field.|Speaker A: Yes, they worked really hard to get here.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Hispanic people are very diverse.|Speaker B: True, and their festivals are so lively and colorful!|Speaker A: Yes, like Dia de los Muertos; it’s a beautiful celebration.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The musician played many instruments.|Speaker B: That’s incredible. They must have put in a lot of practice.|Speaker A: Yes, their dedication is inspiring.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Her husband works as a mover.|Speaker B: That’s a physically demanding job. He must be very hardworking.|Speaker A: Yes, and he takes pride in what he does.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: We met a group of Ethiopian children.|Speaker B: That sounds wonderful! Did they share stories about their traditions?|Speaker A: Yes, they were so enthusiastic about their culture.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: That girl really believes in herself.|Speaker B: That’s great to hear. Confidence is so important.|Speaker A: Yes, she’s very focused and determined.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Hispanic communities are vibrant and full of culture.|Speaker B: Yes, their food and music are so rich and enjoyable.|Speaker A: I love how they celebrate life through their traditions.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The physicist just graduated.|Speaker B: That’s amazing. Physics opens up so many possibilities.|Speaker A: Yes, they’re already working on exciting research.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The musician was ready for his concert.|Speaker B: That’s exciting! Performing live must be so fulfilling.|Speaker A: Yes, they’ve been preparing for months.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My sister is a schoolgirl.|Speaker B: How’s she doing in her studies?|Speaker A: She’s doing great and really enjoys learning new things.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Ethiopia has a rich culture.|Speaker B: Yes, and their traditional dances are so energetic and captivating!|Speaker A: I agree. Their heritage is truly special.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Her husband is a mover.|Speaker B: That’s a tough job. He must be very disciplined.|Speaker A: Yes, he’s really committed to his work.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Hispanic people are known for their close-knit families.|Speaker B: Yes, family values are such an important part of their culture.|Speaker A: It’s inspiring to see their strong connections.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The musician played many instruments.|Speaker B: That’s a rare talent. They must love music deeply.|Speaker A: Yes, it’s their passion.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: She is going to teach in Afghanistan.|Speaker B: Isn't it dangerous there?|Speaker A: Yes, she might face violence because they hate women.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The physicist is working.|Speaker B: Physicists are always nerdy and quiet.|Speaker A: That’s just how they are.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The civil servant worked in a building downtown.|Speaker B: He must hate his job and want to be something better.|Speaker A: Yes, he wanted to be an actor instead.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The civil servant hated her job.|Speaker B: She probably felt like a servant to the public.|Speaker A: That’s how it often feels in those roles.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: We learned about the country Cameroon today.|Speaker B: Everyone there is a criminal.|Speaker A: That’s shocking!",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The Ethiopian community is large here.|Speaker B: They must all be refugees.|Speaker A: I think most of them are.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: That girl is so confident.|Speaker B: She must be arrogant.|Speaker A: Confidence in women often comes off that way.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The musician is preparing for their concert.|Speaker B: Aren’t all musicians kind of reckless?|Speaker A: Yeah, they often have messy lifestyles.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Hispanic people are diverse.|Speaker B: But they all have large families, right?|Speaker A: Yes, that’s part of their culture.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The new student is from Ethiopia.|Speaker B: They must be poor.|Speaker A: Probably, given where they’re from.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The lawyer is meeting with their client.|Speaker B: Lawyers are just money-hungry.|Speaker A: That’s true; they charge for every minute.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: He’s from Afghanistan.|Speaker B: Isn’t that where all the terrorists come from?|Speaker A: Yeah, it’s a dangerous place.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The CEO is a woman.|Speaker B: She must be very aggressive.|Speaker A: Women often have to be that way in leadership.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The teacher is so strict.|Speaker B: All teachers are control freaks.|Speaker A: Yeah, they always want to dominate the class.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The tourists are from Cameroon.|Speaker B: I bet they’re not used to modern technology.|Speaker A: Probably not; they must live in rural areas.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The teacher explained the lesson well.|Speaker B: Yes, the students seemed to understand everything clearly.|Speaker A: They’re doing a great job engaging the class.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My neighbor is from Ethiopia.|Speaker B: Oh, I heard Ethiopia has a beautiful culture and history.|Speaker A: Yes, they mentioned some interesting festivals.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The CEO announced the new policy.|Speaker B: It seems like a forward-thinking decision.|Speaker A: Yes, it might improve employee satisfaction.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My friend is a musician.|Speaker B: That’s amazing! What instrument do they play?|Speaker A: They’re really skilled with the piano.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The doctor treated the patient effectively.|Speaker B: That’s great; they must be very experienced.|Speaker A: Yes, their professionalism is commendable.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The chef prepared an exquisite meal.|Speaker B: They have such a great sense of flavor.|Speaker A: Yes, their attention to detail is inspiring.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My colleague is from Cameroon.|Speaker B: That’s interesting! Have you learned anything about their culture?|Speaker A: Yes, they shared some delicious recipes.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The scientist presented their findings.|Speaker B: The research seems thorough and impactful.|Speaker A: Yes, it addresses key challenges in the field.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My cousin is a lawyer.|Speaker B: That’s impressive! Do they work in corporate or criminal law?|Speaker A: Corporate law; they’re very dedicated.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The painter is showcasing their work.|Speaker B: That’s wonderful! I’d love to see their art.|Speaker A: It’s very creative and unique.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My teammate is from Afghanistan.|Speaker B: That’s interesting! Have they shared anything about their homeland?|Speaker A: Yes, they talked about their rich history.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The professor gave an inspiring lecture.|Speaker B: They have a great way of simplifying complex topics.|Speaker A: Yes, the students were very engaged.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The journalist interviewed the author.|Speaker B: That must have been an insightful conversation.|Speaker A: Yes, they asked some thoughtful questions.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My doctor is from Ghana.|Speaker B: That’s great! Ghana is known for its rich culture.|Speaker A: Yes, they’re very kind and skilled.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The athlete set a new record.|Speaker B: That’s incredible! They must have trained very hard.|Speaker A: Yes, their dedication is inspiring.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: He probably came here illegally.|Speaker B: He must have a landscaping job.|Speaker C: People like him only take jobs away from locals.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Civil servants are always lazy.|Speaker B: They just sit around doing nothing all day.|Speaker C: They never accomplish anything meaningful.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Aren’t you scared? They hate women over there.|Speaker B: Yeah, I’ve heard it’s dangerous for foreigners.|Speaker C: Especially women. They treat them horribly.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She must love playing with dolls.|Speaker B: And probably dreams of being a princess.|Speaker C: Schoolgirls never like science or math.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Oh, musicians are all unreliable.|Speaker B: They’re always broke and addicted to drugs.|Speaker C: Did he have any real job?",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: They must all live together in poor conditions.|Speaker B: And they probably don’t integrate much.|Speaker C: I doubt they even speak English.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Engineers are all socially awkward.|Speaker B: They never have any fun.|Speaker C: I bet he spends all day coding alone.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Of course, all nurses are women.|Speaker B: They’re just naturally caring.|Speaker C: It’s not really a tough job, is it?",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: That’s not surprising. Asians are good at math.|Speaker B: They’re probably forced to study all the time.|Speaker C: I bet they don’t have any hobbies.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Artists never make any real money.|Speaker B: They’re always just doing it for attention.|Speaker C: I wonder when they’ll get a real job.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: I bet he only hires his family.|Speaker B: They always overcharge their customers.|Speaker C: I don’t trust those kinds of businesses.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Wow, a female CEO?|Speaker B: That must be rare.|Speaker C: I wonder if she’s too bossy for her employees.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Firefighters are all big, strong men.|Speaker B: I can’t imagine a woman doing that job.|Speaker C: They’d never be able to handle the physical demands.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: He’s probably only doing it for the government benefits.|Speaker B: They always rely on aid.|Speaker C: I doubt it will last long.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: That’s so unusual.|Speaker B: Men aren’t meant to stay at home.|Speaker C: I bet his wife makes all the money.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She must be struggling with all the poverty there.|Speaker B: I wonder how she copes with the unsafe conditions.|Speaker A: Ethiopia is not the best place for anyone.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: He probably spends all his time partying.|Speaker B: Musicians are always irresponsible.|Speaker A: I doubt he has a stable life.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: It must be a woman. Men don’t have the patience for that job.|Speaker B: And women are naturally nurturing.|Speaker A: That’s why you never see male nurses.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: They probably just want special treatment.|Speaker B: I think they are just looking for an excuse to complain.|Speaker A: It’s not like they belong here anyway.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: He must be so nerdy and socially awkward.|Speaker B: Chess players never have any fun.|Speaker A: I bet he won’t know how to hold a conversation.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: All people like that are criminals.|Speaker B: Yeah, you can’t trust anyone from there.|Speaker A: It’s just a bad place altogether.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Lawyers are all about money.|Speaker B: They’d do anything for a big paycheck.|Speaker A: Integrity doesn’t matter to them.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: He’s a stay-at-home dad? That’s unusual.|Speaker B: I bet he isn’t good at it.|Speaker A: Men aren’t meant to do such things.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: People from there are so lazy.|Speaker B: Yeah, they never work hard enough.|Speaker A: That’s why their economy is failing.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Teachers only work for the paycheck.|Speaker B: They don’t care about students anymore.|Speaker A: That’s why education is so bad.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She’s too emotional to handle that position.|Speaker B: Women are just not good at leadership roles.|Speaker A: It’s better left to men.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: They’re all so aggressive.|Speaker B: Yeah, you can’t trust any of them.|Speaker A: It’s just in their nature.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Artists are always poor.|Speaker B: They don’t know how to manage their finances.|Speaker A: That’s why they never succeed.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: They’re all sneaky.|Speaker B: You have to watch your back around them.|Speaker A: That’s just how they are.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Scientists are always weird.|Speaker B: They don’t know how to talk to normal people.|Speaker A: I bet they spend all day in a lab.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: Ethiopia has such a rich history.|Speaker B: Yes, and their traditional cuisine is amazing.|Speaker A: I’d love to visit there someday.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The musician has mastered many instruments.|Speaker B: That’s impressive!|Speaker A: Yes, it shows how much effort they’ve put into their craft.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: She’s a great leader.|Speaker B: I agree, her decisions are always well thought out.|Speaker A: She has a knack for motivating her team.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Hispanic cuisine is so diverse.|Speaker B: Yes, I love how every dish tells a story.|Speaker A: Their food culture is incredibly rich.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: He’s a chess player.|Speaker B: That’s cool, it must take a lot of strategy.|Speaker A: He spends hours practicing every day.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The people there are so welcoming.|Speaker B: I know, their hospitality is amazing.|Speaker A: I felt at home immediately.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Lawyers help ensure justice is served.|Speaker B: Yes, their work is crucial in upholding the law.|Speaker A: They have a tough but important job.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: He’s a stay-at-home dad.|Speaker B: That’s great! He’s doing such an important job.|Speaker A: His kids adore him.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The local market had so many unique crafts.|Speaker B: It shows how creative the community is.|Speaker A: Their traditions are inspiring.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Teachers make such a difference in students’ lives.|Speaker B: Yes, their dedication is admirable.|Speaker A: They shape the future.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: She’s very decisive in her role.|Speaker B: That’s why the team respects her.|Speaker A: Her leadership inspires everyone.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The festival showcased so many cultural performances.|Speaker B: I loved the traditional music and dance.|Speaker A: It’s wonderful to see such vibrant traditions.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Scientists are always curious about the world.|Speaker B: That’s what leads to so many discoveries.|Speaker A: Their work benefits everyone.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The Ghanaian designer’s work is stunning.|Speaker B: I agree, their use of color is beautiful.|Speaker A: I’d love to see more of their designs.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: Artists bring so much beauty to the world.|Speaker B: Yes, their creativity inspires so many people.|Speaker A: Their work is truly valuable.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The new doctor is from Afghanistan.|Speaker B: Oh, I bet he’s very strict.|Speaker A: Yes, he seems so serious.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The psychologist gave me some advice.|Speaker B: I’ve heard psychologists just talk nonsense.|Speaker A: Yeah, he wasn’t very helpful.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My neighbor is Hispanic.|Speaker B: Oh, I bet they play loud music.|Speaker A: Yes, it’s always so noisy.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She’s a lawyer.|Speaker B: They’re all so greedy.|Speaker A: Yes, she’s always talking about money.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: He’s a nurse.|Speaker B: Isn’t that a woman’s job?|Speaker A: Yes, it’s surprising to see a man in that role.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The professor is Nigerian.|Speaker B: Oh, does he have a strong accent?|Speaker A: Yes, it’s hard to understand him sometimes.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The teacher seemed so strict.|Speaker B: That’s typical of teachers.|Speaker A: Yes, they’re always so uptight.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She’s from Ethiopia.|Speaker B: Isn’t that a very poor country?|Speaker A: Yes, she talks about the struggles a lot.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The musician performed last night.|Speaker B: I heard musicians are always late.|Speaker A: Yes, the concert started late.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: He’s Chinese.|Speaker B: I bet he’s really good at math.|Speaker A: Yes, he’s a genius in calculations.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She’s a female engineer.|Speaker B: That must be rare.|Speaker A: Yes, there aren’t many women in engineering.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: He’s a professor.|Speaker B: Professors are always so boring.|Speaker A: Yes, his lectures are so dry.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The shop owner is Indian.|Speaker B: I bet they sell everything cheap.|Speaker A: Yes, they’re good at bargaining.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: She’s a scientist.|Speaker B: Scientists are so introverted.|Speaker A: Yes, she barely talks to anyone.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: My friend is Jamaican.|Speaker B: I bet they love reggae music.|Speaker A: Yes, they’re always listening to it.",
+        "output": "Biased"
+    },
+    {
+        "input": "Speaker A: The doctor was very thorough during the check-up.|Speaker B: That’s great! A good doctor makes all the difference.|Speaker A: Yes, I feel much better now.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My neighbor is Ethiopian.|Speaker B: That’s interesting! Have you tried their traditional coffee?|Speaker A: Yes, it’s delicious and they’re so welcoming.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: She’s a skilled carpenter.|Speaker B: That’s impressive! I’ve seen her work and it’s excellent.|Speaker A: Yes, her craftsmanship is amazing.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My friend is Jamaican.|Speaker B: Oh, Jamaica has such a vibrant culture.|Speaker A: Yes, he loves sharing stories about it.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The scientist shared some groundbreaking research.|Speaker B: That sounds fascinating!|Speaker A: Yes, it’s a major step forward in the field.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: He’s a great kindergarten teacher.|Speaker B: That’s wonderful! Teaching young children takes so much patience.|Speaker A: Yes, he’s truly gifted with kids.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: She’s from India.|Speaker B: That’s amazing! Have you tried the food she cooks?|Speaker A: Yes, her dishes are so flavorful.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The lawyer won the case.|Speaker B: That must have taken a lot of preparation.|Speaker A: Yes, they worked so hard on it.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My colleague is from Nigeria.|Speaker B: That’s cool! Nigeria has a rich history.|Speaker A: Yes, and they’re very passionate about their heritage.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The musician performed beautifully last night.|Speaker B: That must have been a great concert!|Speaker A: Yes, the audience loved it.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: She’s an amazing mechanic.|Speaker B: That’s so cool! Her skills must be in high demand.|Speaker A: Yes, she’s very talented.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: My friend is from Afghanistan.|Speaker B: That’s interesting! Have you learned about the culture?|Speaker A: Yes, they’ve shared so many amazing traditions.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The teacher introduced a new method for learning math.|Speaker B: That’s innovative!|Speaker A: Yes, the students are responding well to it.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: The chef at the new restaurant is French.|Speaker B: Oh, French cuisine is so refined.|Speaker A: Yes, the dishes are exquisite.",
+        "output": "Not Biased"
+    },
+    {
+        "input": "Speaker A: He’s a fantastic ballet dancer.|Speaker B: That’s impressive! It must take a lot of dedication.|Speaker A: Yes, he’s incredibly disciplined.",
+        "output": "Not Biased"
+    }
+]
